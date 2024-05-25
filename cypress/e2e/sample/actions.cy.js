@@ -2,7 +2,7 @@
 
 context('Actions', () => {
   beforeEach(() => {
-    cy.visit('https://example.cypress.io/commands/actions')
+    cy.visit('https://develop--portal-jabar-cms.netlify.app/layanan/daftar-layanan')
   })
 
   // https://on.cypress.io/interacting-with-elements
